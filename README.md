@@ -1,6 +1,6 @@
 # TOQ Construction - Next.js
 
-A modern, high-performance  Construction website, migrated from static HTML to Next.js.
+A modern, high-performance  Construction website.
 
 ## Technology Stack
 
